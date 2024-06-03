@@ -1,6 +1,8 @@
 ZOHO_CLIENT_ID=
 ZOHO_CLIENT_SECRET=
 ZOHO_AUTH_CODE=
+<!-- https://www.zoho.com/creator/help/api/v2.1/oauth-overview.html -->
+ZOHO_AUTH_SCOPE=ZohoCreator.report.CREATE,ZohoCreator.report.READ,ZohoCreator.report.UPDATE,ZohoCreator.report.DELETE
 ZOHO_ORG_NAME=canadaroyalmilk
 ZOHO_APP_NAME=consent
 ZOHO_FORM_NAME=Consent_Cassie
